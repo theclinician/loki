@@ -18,7 +18,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - fluent-bit-0.0.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/fluent-bit-0.0.2.tgz
     version: 0.0.2
   - appVersion: v0.0.1
     created: 2019-12-20T22:50:14.804226765Z
@@ -36,7 +36,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - fluent-bit-0.0.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/fluent-bit-0.0.1.tgz
     version: 0.0.1
   loki:
   - apiVersion: v1
@@ -55,7 +55,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.22.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.22.0.tgz
     version: 0.22.0
   - apiVersion: v1
     appVersion: v1.2.0
@@ -73,7 +73,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.21.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.21.0.tgz
     version: 0.21.0
   - apiVersion: v1
     appVersion: v1.1.0
@@ -91,7 +91,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.20.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.20.0.tgz
     version: 0.20.0
   - apiVersion: v1
     appVersion: v1.0.0
@@ -109,7 +109,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.19.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.19.0.tgz
     version: 0.19.0
   - apiVersion: v1
     appVersion: v1.0.0
@@ -127,7 +127,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.18.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.18.0.tgz
     version: 0.18.0
   - apiVersion: v1
     appVersion: v0.4.0
@@ -145,7 +145,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.17.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.17.2.tgz
     version: 0.17.2
   - apiVersion: v1
     appVersion: v0.4.0
@@ -163,7 +163,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.17.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.17.1.tgz
     version: 0.17.1
   - apiVersion: v1
     appVersion: v0.4.0
@@ -181,7 +181,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.17.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.17.0.tgz
     version: 0.17.0
   - apiVersion: v1
     appVersion: v0.3.0
@@ -199,7 +199,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.16.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.16.1.tgz
     version: 0.16.1
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.811370953Z
@@ -216,7 +216,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.16.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.16.0.tgz
     version: 0.16.0
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.810981757Z
@@ -233,7 +233,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.15.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.15.0.tgz
     version: 0.15.0
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.810594594Z
@@ -250,7 +250,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.14.3.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.14.3.tgz
     version: 0.14.3
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.810202522Z
@@ -267,7 +267,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.14.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.14.2.tgz
     version: 0.14.2
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.808829778Z
@@ -284,7 +284,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.14.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.14.1.tgz
     version: 0.14.1
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.808174218Z
@@ -301,7 +301,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.14.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.14.0.tgz
     version: 0.14.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.80746015Z
@@ -318,7 +318,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.13.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.13.0.tgz
     version: 0.13.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.806791972Z
@@ -335,7 +335,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.12.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.12.0.tgz
     version: 0.12.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.806151822Z
@@ -352,7 +352,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.11.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.11.0.tgz
     version: 0.11.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.805531742Z
@@ -369,7 +369,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.10.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.10.0.tgz
     version: 0.10.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.821333758Z
@@ -386,7 +386,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.9.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.9.2.tgz
     version: 0.9.2
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.820948602Z
@@ -403,7 +403,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.9.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.9.1.tgz
     version: 0.9.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.820609526Z
@@ -420,7 +420,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.9.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.9.0.tgz
     version: 0.9.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.820266958Z
@@ -437,7 +437,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.8.5.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.8.5.tgz
     version: 0.8.5
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.819920558Z
@@ -454,7 +454,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.8.4.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.8.4.tgz
     version: 0.8.4
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.81956934Z
@@ -471,7 +471,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.8.3.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.8.3.tgz
     version: 0.8.3
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.819186683Z
@@ -488,7 +488,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.8.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.8.2.tgz
     version: 0.8.2
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.817838014Z
@@ -505,7 +505,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.8.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.8.1.tgz
     version: 0.8.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.817435363Z
@@ -522,7 +522,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.8.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.8.0.tgz
     version: 0.8.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.817009634Z
@@ -539,7 +539,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.7.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.7.2.tgz
     version: 0.7.2
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.816648564Z
@@ -556,7 +556,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.7.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.7.1.tgz
     version: 0.7.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.816282833Z
@@ -573,7 +573,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.7.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.7.0.tgz
     version: 0.7.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.815911072Z
@@ -590,7 +590,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.6.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.6.0.tgz
     version: 0.6.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.815547232Z
@@ -607,7 +607,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-0.5.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-0.5.0.tgz
     version: 0.5.0
   loki-stack:
   - apiVersion: v1
@@ -626,7 +626,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.24.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.24.0.tgz
     version: 0.24.0
   - apiVersion: v1
     appVersion: v1.2.0
@@ -644,7 +644,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.23.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.23.0.tgz
     version: 0.23.0
   - apiVersion: v1
     appVersion: v1.1.0
@@ -662,7 +662,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.22.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.22.0.tgz
     version: 0.22.0
   - apiVersion: v1
     appVersion: v1.0.0
@@ -680,7 +680,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.21.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.21.0.tgz
     version: 0.21.0
   - apiVersion: v1
     appVersion: v1.0.0
@@ -698,7 +698,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.20.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.20.0.tgz
     version: 0.20.0
   - apiVersion: v1
     appVersion: v0.4.0
@@ -716,7 +716,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.19.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.19.1.tgz
     version: 0.19.1
   - apiVersion: v1
     appVersion: v0.4.0
@@ -734,7 +734,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.19.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.19.0.tgz
     version: 0.19.0
   - apiVersion: v1
     appVersion: v0.4.0
@@ -752,7 +752,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.18.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.18.1.tgz
     version: 0.18.1
   - apiVersion: v1
     appVersion: v0.4.0
@@ -770,7 +770,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.18.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.18.0.tgz
     version: 0.18.0
   - apiVersion: v1
     appVersion: v0.3.0
@@ -788,7 +788,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.17.4.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.17.4.tgz
     version: 0.17.4
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.88765264Z
@@ -805,7 +805,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.17.3.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.17.3.tgz
     version: 0.17.3
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.883766755Z
@@ -822,7 +822,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.17.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.17.2.tgz
     version: 0.17.2
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.880724679Z
@@ -839,7 +839,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.17.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.17.1.tgz
     version: 0.17.1
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.877773394Z
@@ -856,7 +856,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.17.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.17.0.tgz
     version: 0.17.0
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.873483101Z
@@ -873,7 +873,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.16.5.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.16.5.tgz
     version: 0.16.5
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.869464645Z
@@ -890,7 +890,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.16.4.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.16.4.tgz
     version: 0.16.4
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.865746228Z
@@ -907,7 +907,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.16.3.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.16.3.tgz
     version: 0.16.3
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.861077068Z
@@ -924,7 +924,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.16.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.16.2.tgz
     version: 0.16.2
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.85677714Z
@@ -941,7 +941,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.16.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.16.1.tgz
     version: 0.16.1
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.852449784Z
@@ -958,7 +958,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.16.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.16.0.tgz
     version: 0.16.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.848150928Z
@@ -975,7 +975,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.15.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.15.0.tgz
     version: 0.15.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.844276717Z
@@ -992,7 +992,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.14.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.14.0.tgz
     version: 0.14.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.84166538Z
@@ -1009,7 +1009,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.13.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.13.1.tgz
     version: 0.13.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.838976291Z
@@ -1026,7 +1026,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.13.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.13.0.tgz
     version: 0.13.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.83551115Z
@@ -1043,7 +1043,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.12.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.12.0.tgz
     version: 0.12.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.832890926Z
@@ -1060,7 +1060,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.11.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.11.1.tgz
     version: 0.11.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.830312521Z
@@ -1077,7 +1077,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.11.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.11.0.tgz
     version: 0.11.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.826734414Z
@@ -1094,7 +1094,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.10.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.10.1.tgz
     version: 0.10.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.824012433Z
@@ -1111,7 +1111,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.10.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.10.0.tgz
     version: 0.10.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.940478683Z
@@ -1128,7 +1128,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.9.5.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.9.5.tgz
     version: 0.9.5
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.937924501Z
@@ -1145,7 +1145,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.9.4.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.9.4.tgz
     version: 0.9.4
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.935320433Z
@@ -1162,7 +1162,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.9.3.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.9.3.tgz
     version: 0.9.3
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.934628628Z
@@ -1179,7 +1179,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.9.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.9.2.tgz
     version: 0.9.2
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.933915457Z
@@ -1196,7 +1196,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.9.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.9.1.tgz
     version: 0.9.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.933189638Z
@@ -1213,7 +1213,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.9.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.9.0.tgz
     version: 0.9.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.932478433Z
@@ -1230,7 +1230,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.8.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.8.1.tgz
     version: 0.8.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.931442552Z
@@ -1247,7 +1247,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.8.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.8.0.tgz
     version: 0.8.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.930338244Z
@@ -1264,7 +1264,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.7.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.7.2.tgz
     version: 0.7.2
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.929666687Z
@@ -1281,7 +1281,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.7.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.7.1.tgz
     version: 0.7.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.928962003Z
@@ -1298,7 +1298,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.7.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.7.0.tgz
     version: 0.7.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.928279888Z
@@ -1315,7 +1315,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.6.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.6.2.tgz
     version: 0.6.2
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.927581043Z
@@ -1332,7 +1332,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.6.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.6.1.tgz
     version: 0.6.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.926916094Z
@@ -1349,7 +1349,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - loki-stack-0.6.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/loki-stack-0.6.0.tgz
     version: 0.6.0
   promtail:
   - apiVersion: v1
@@ -1368,7 +1368,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.16.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.16.0.tgz
     version: 0.16.0
   - apiVersion: v1
     appVersion: v1.1.0
@@ -1386,7 +1386,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.15.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.15.0.tgz
     version: 0.15.0
   - apiVersion: v1
     appVersion: v1.0.0
@@ -1404,7 +1404,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.14.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.14.0.tgz
     version: 0.14.0
   - apiVersion: v1
     appVersion: v0.4.0
@@ -1422,7 +1422,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.13.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.13.1.tgz
     version: 0.13.1
   - apiVersion: v1
     appVersion: v0.4.0
@@ -1440,7 +1440,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.13.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.13.0.tgz
     version: 0.13.0
   - apiVersion: v1
     appVersion: v0.3.0
@@ -1458,7 +1458,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.12.3.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.12.3.tgz
     version: 0.12.3
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.943243287Z
@@ -1475,7 +1475,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.12.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.12.2.tgz
     version: 0.12.2
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.942844588Z
@@ -1492,7 +1492,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.12.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.12.1.tgz
     version: 0.12.1
   - appVersion: v0.3.0
     created: 2019-12-20T22:50:14.942452204Z
@@ -1509,7 +1509,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.12.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.12.0.tgz
     version: 0.12.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.942075471Z
@@ -1526,7 +1526,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.11.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.11.0.tgz
     version: 0.11.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.941682869Z
@@ -1543,7 +1543,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.10.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.10.0.tgz
     version: 0.10.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.95023561Z
@@ -1560,7 +1560,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.9.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.9.0.tgz
     version: 0.9.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.94984789Z
@@ -1577,7 +1577,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.8.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.8.1.tgz
     version: 0.8.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.948666429Z
@@ -1594,7 +1594,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.8.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.8.0.tgz
     version: 0.8.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.94832746Z
@@ -1611,7 +1611,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.7.3.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.7.3.tgz
     version: 0.7.3
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.947987561Z
@@ -1628,7 +1628,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.7.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.7.2.tgz
     version: 0.7.2
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.947606097Z
@@ -1645,7 +1645,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.7.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.7.1.tgz
     version: 0.7.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.947271267Z
@@ -1662,7 +1662,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.7.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.7.0.tgz
     version: 0.7.0
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.946920861Z
@@ -1679,7 +1679,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.6.3.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.6.3.tgz
     version: 0.6.3
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.946584352Z
@@ -1696,7 +1696,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.6.2.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.6.2.tgz
     version: 0.6.2
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.946257341Z
@@ -1713,7 +1713,7 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.6.1.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.6.1.tgz
     version: 0.6.1
   - appVersion: 0.0.1
     created: 2019-12-20T22:50:14.945927509Z
@@ -1730,6 +1730,6 @@ entries:
     sources:
     - https://github.com/grafana/loki
     urls:
-    - promtail-0.6.0.tgz
+    - https://raw.githubusercontent.com/theclinician/loki/gh-pages/charts/promtail-0.6.0.tgz
     version: 0.6.0
 generated: 2019-12-20T22:50:14.803361543Z
